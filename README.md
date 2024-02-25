@@ -1,3 +1,4 @@
-# Olá, Mundo!
- 1 repositorio para teste do primeiro github
+# Static Models
+ Repository for static model such as routing problem, Scheduling problem. Static model are the models that has a fixed input.
+ 
 
